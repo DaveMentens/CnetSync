@@ -15,7 +15,7 @@ composer.json
 {
     "require": {
         "nousefreak/cnetsync": "1.0.*",
-        "cultuurnet/cdb": "dev-master"
+        "cultuurnet/cdb": "2.*@dev"
     }
 }
 ```
